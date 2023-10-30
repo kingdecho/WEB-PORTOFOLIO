@@ -1,0 +1,41 @@
+body {
+    min-height: 2600px;
+    scroll-behavior: smooth;
+}
+
+.jumbotron {
+    background-color: #e2edff;
+    padding-top: 5rem;
+}
+
+#galery {
+    background-color: #e2edff;
+}
+
+.row{
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+}
+
+.container-media {
+    background-color: aqua;
+}
+
+
+.li-text {
+    list-style-type: none;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.footer {
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    padding-top: 12rem;
+}
